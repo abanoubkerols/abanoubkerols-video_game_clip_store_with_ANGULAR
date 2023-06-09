@@ -1,8 +1,6 @@
 # video_game_clip_store_with_ANGULAR
 video_game_clip_store_with_ANGULAR
 
-
-video_game_clip_store
 <h1>Full Stack App 👉 Angular - FireBase </h1>
 <h3><a href="https://abanoubkerols-video-game-clip-store-with-angular.vercel.app/">Project Link</a></h3>
 <h3>tools used in Project </h3>
